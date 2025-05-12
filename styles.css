@@ -16,7 +16,7 @@ h1 {
     padding-top: 25px;
 }
 
-input[type="text"] {
+input[type="number"] {
     padding: 10px;
     border: 2px solid #6cc052;
     border-radius: 10px;
